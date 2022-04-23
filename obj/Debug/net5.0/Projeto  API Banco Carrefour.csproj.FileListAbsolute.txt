@@ -1,0 +1,105 @@
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\appsettings.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\global.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.exe
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.deps.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.runtimeconfig.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.runtimeconfig.dev.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\ref\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.AssemblyReference.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.AssemblyInfoInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.AssemblyInfo.cs
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.CoreCompileInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\staticwebassets\Projeto  API Banco Carrefour.StaticWebAssets.Manifest.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\staticwebassets\Projeto  API Banco Carrefour.StaticWebAssets.xml
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\scopedcss\bundle\Projeto  API Banco Carrefour.styles.css
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.RazorTargetAssemblyInfo.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.CopyComplete
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\ref\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto Tech Day\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.genruntimeconfig.cache
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.AssemblyReference.cache
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.AssemblyInfoInputs.cache
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.AssemblyInfo.cs
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.CoreCompileInputs.cache
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\ref\Projeto  API Banco Carrefour.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.pdb
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\appsettings.json
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\global.json
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.exe
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.deps.json
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.runtimeconfig.json
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.runtimeconfig.dev.json
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\ref\Projeto  API Banco Carrefour.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.pdb
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\staticwebassets\Projeto  API Banco Carrefour.StaticWebAssets.Manifest.cache
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\staticwebassets\Projeto  API Banco Carrefour.StaticWebAssets.xml
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\scopedcss\bundle\Projeto  API Banco Carrefour.styles.css
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.RazorTargetAssemblyInfo.cache
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.CopyComplete
+C:\Users\cieli\Downloads\Projeto_API_Banco_Carrefour\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.genruntimeconfig.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\appsettings.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\global.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.exe
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.deps.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.runtimeconfig.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.runtimeconfig.dev.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\ref\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Projeto  API Banco Carrefour.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.AssemblyReference.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.AssemblyInfoInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.AssemblyInfo.cs
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.CoreCompileInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\staticwebassets\Projeto  API Banco Carrefour.StaticWebAssets.Manifest.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\staticwebassets\Projeto  API Banco Carrefour.StaticWebAssets.xml
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\scopedcss\bundle\Projeto  API Banco Carrefour.styles.css
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.RazorTargetAssemblyInfo.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.csproj.CopyComplete
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\ref\Projeto  API Banco Carrefour.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Projeto  API Banco Carrefour\obj\Debug\net5.0\Projeto  API Banco Carrefour.genruntimeconfig.cache
